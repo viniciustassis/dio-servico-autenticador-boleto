@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# dio-servico-autenticador-boleto
-=======
 
 # Plataforma de Aplicações Microsoft 🚀💻
 
@@ -34,4 +31,3 @@ Neste projeto, aprofundei conhecimentos sobre:
 ---
 
 > Projeto criado como parte do desafio prático da DIO: Microsoft Application Platform.
->>>>>>> edcd019 (primeiro commit)
